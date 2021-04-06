@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>35</ID>
+      <Description>"Always Imposter Hack"</Description>
+      <LastState Value="0" RealAddress="2C1DD79C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GameAssembly.dll"+028CE63C</Address>
+      <Offsets>
+        <Offset>2C</Offset>
+        <Offset>34</Offset>
+        <Offset>0</Offset>
+        <Offset>5C</Offset>
+        <Offset>10</Offset>
+        <Offset>58</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>39</ID>
+      <Description>"No Kill Cooldown Hack"</Description>
+      <LastState Value="0" RealAddress="284E7CC4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+0145A24C</Address>
+      <Offsets>
+        <Offset>44</Offset>
+        <Offset>C</Offset>
+        <Offset>18</Offset>
+        <Offset>40</Offset>
+        <Offset>28</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>44</ID>
+      <Description>"Sabotage Hack"</Description>
+      <LastState Value="0" RealAddress="2BAFF888"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GameAssembly.dll"+028DC040</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>8C</Offset>
+        <Offset>C</Offset>
+        <Offset>8C</Offset>
+        <Offset>0</Offset>
+        <Offset>5C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>69</ID>
+      <Description>"Total Tasks"</Description>
+      <LastState Value="0" RealAddress="2BC4B24C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GameAssembly.dll"+028CE63C</Address>
+      <Offsets>
+        <Offset>C</Offset>
+        <Offset>78</Offset>
+        <Offset>18</Offset>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>5C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>61</ID>
+      <Description>"Y Coordinates"</Description>
+      <LastState Value="2.226461649" RealAddress="13938670"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>"GameAssembly.dll"+028CE63C</Address>
+      <Offsets>
+        <Offset>30</Offset>
+        <Offset>5C</Offset>
+        <Offset>8</Offset>
+        <Offset>38</Offset>
+        <Offset>64</Offset>
+        <Offset>0</Offset>
+        <Offset>5C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>65</ID>
+      <Description>"X Coordinates"</Description>
+      <LastState Value="3215643447" RealAddress="1393866C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"GameAssembly.dll"+028CE63C</Address>
+      <Offsets>
+        <Offset>2C</Offset>
+        <Offset>5C</Offset>
+        <Offset>8</Offset>
+        <Offset>30</Offset>
+        <Offset>60</Offset>
+        <Offset>0</Offset>
+        <Offset>5C</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
